@@ -21,7 +21,7 @@ Rails: 7.2.1
 セットアップ手順
 1. リポジトリのクローン
 git clone https://github.com/shinnosukeee/blog.git
-cd SimpleBlog
+cd blog
 2. 必要なGemのインストール
 bundle install
 3. データベースの設定
@@ -36,6 +36,7 @@ rails server
 管理ユーザの作成
 ブラウザでhttp://localhost:3000/admin_users/sign_upにアクセス。
 必要な情報を入力して管理ユーザを登録します。
+
 テストの実行
 単体テスト・統合テスト
 bundle exec rspec
