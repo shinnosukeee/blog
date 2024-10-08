@@ -20,7 +20,7 @@ Rails: 7.2.1
 データベース: SQLite3
 セットアップ手順
 1. リポジトリのクローン
-git clone https://github.com/yourusername/SimpleBlog.git
+git clone https://github.com/shinnosukeee/blog.git
 cd SimpleBlog
 2. 必要なGemのインストール
 bundle install
